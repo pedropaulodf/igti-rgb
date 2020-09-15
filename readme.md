@@ -8,7 +8,7 @@ Exercitar a busca de dados de um Json via Javascript.
 
 HTML, CSS e Javascript
 
-### Projeto final do Módulo 1 do bootcamp da IGTI
+### Projeto
 
 <a href="https://pedropaulodf-igti-rgb.netlify.app/" target="_blank">Veja ele no Netlify</a>
 
